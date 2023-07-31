@@ -1,6 +1,6 @@
 *{
-  margin-left: 3px;
-  margin-right: 3px;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-top: 10px
 }
 
@@ -14,14 +14,17 @@ p1{
   color: black;
 }
 
-
+nav{
+	font-family: "Lucida Console", "Courier New", monospace;
+  color: black;
+}
 /*nav bar*/
 ul {
    list-style-type: none;
    margin: 0;
    padding: 0;
-   overflow: hidden;
-   background-color: #333;
+   overflow: visable;
+   background-color: #337;
  }
 
  li {
@@ -41,7 +44,7 @@ ul {
  }
 
  body{
-   background-color: #e5e5e5;
+   background-color: black;
  }
  container-fluid{
    background-color: black;
